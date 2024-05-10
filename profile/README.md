@@ -24,8 +24,8 @@ https://bookbom.shop/
 ## ERD
 
 https://www.erdcloud.com/d/iWzdEjz2dMQyfa9Mc
+![book-bom-erd](https://github.com/nhnacademy-be5-bom/.github/assets/132794328/ce94f6dc-8a01-4b75-8b7c-3aa5c5c63ff2)
 
-![image](https://github.com/nhnacademy-be5-bom/.github/assets/132794328/b09f7452-76d6-4712-b5b2-5d170536388e)
 
 
 ## 개발 환경
