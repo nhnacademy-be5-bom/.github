@@ -112,8 +112,14 @@ https://www.erdcloud.com/d/iWzdEjz2dMQyfa9Mc
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)
 ![Junit5](https://img.shields.io/badge/Junit5-25A인
 
-  
+## 프로젝트 관리
+### wbs
 ![image](https://github.com/nhnacademy-be5-bom/.github/assets/132794328/e14b8dfd-b907-4e22-85c2-026eeaadfc33)
+
+### kaban
+
+
+### srum
 
 ---
 
