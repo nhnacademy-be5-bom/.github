@@ -13,11 +13,16 @@
 # 홈페이지
 https://bookbom.shop/
 
------
-## WBS
-https://github.com/orgs/nhnacademy-be5-bom/projects/4
+---
 
-![image](https://github.com/nhnacademy-be5-bom/.github/assets/132794328/4aa3b6ef-db4d-4215-80dc-4a798cd1fbbc)
+## 아키텍쳐 구조
+
+## CI/CD
+
+
+## ERD
+https://www.erdcloud.com/d/iWzdEjz2dMQyfa9Mc
+![image](https://github.com/nhnacademy-be5-bom/.github/assets/132794328/b09f7452-76d6-4712-b5b2-5d170536388e)
 
 
 ## 개발 환경
@@ -121,17 +126,11 @@ https://github.com/orgs/nhnacademy-be5-bom/projects/4
 ![Bootstrap5](https://img.shields.io/badge/Bootstrap5-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
+-----
+## WBS
+https://github.com/orgs/nhnacademy-be5-bom/projects/4
 
----
-
-## 아키텍쳐 구조
-
-## CI/CD
-
-
-## ERD
-https://www.erdcloud.com/d/iWzdEjz2dMQyfa9Mc
-![Uploading image.png…]()
+![image](https://github.com/nhnacademy-be5-bom/.github/assets/132794328/4aa3b6ef-db4d-4215-80dc-4a798cd1fbbc)
 
 ---
 
