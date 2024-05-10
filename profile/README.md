@@ -5,7 +5,7 @@
 - 2024-03-11 ~ 2024-05-17
 ## 팀 구성
 
-| <a href="https://github.com/bodol4748"><img src="https://github.com/bodol4748.png" width="100px"><br>@박지원</a> | <a href="https://github.com/jinyesong"><img src="https://github.com/jinyesong.png" width="100px"><br>@송예진</a> | <a href="https://github.com/boyunee"><img src="https://github.com/boyunee.png" width="100px"><br>@정보윤</a> |<a href="https://github.com/masiljangajji"><img src="https://github.com/masiljangajji.png" width="100px"><br>@정현도</a> |<a href ="https://github.com/youaresogay22"> <img src ="https://github.com/youaresogay22.png" width ="100px"><br>@전석준</a>|<a href ="https://github.com/dudxor4587"> <img src ="https://github.com/dudxor4587.png" width ="100px"><br>@김영택</a>
+| <a href="https://github.com/bodol4748"><img src="https://github.com/bodol4748.png" width="100px"><br>@박지원</a> | <a href="https://github.com/jinyesong"><img src="https://github.com/jinyesong.png" width="100px"><br>@송예진</a> | <a href="https://github.com/boyunee"><img src="https://github.com/boyunee.png" width="100px"><br>@정보윤</a> |<a href="https://github.com/hyeond0"><img src="https://github.com/hyeond0.png" width="100px"><br>@정현도</a> |<a href ="https://github.com/youaresogay22"> <img src ="https://github.com/youaresogay22.png" width ="100px"><br>@전석준</a>|<a href ="https://github.com/dudxor4587"> <img src ="https://github.com/dudxor4587.png" width ="100px"><br>@김영택</a>
 |-----|-----|-----|----|-----|-----|
 
 -----
