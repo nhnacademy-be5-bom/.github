@@ -20,13 +20,13 @@ https://bookbom.shop/
 ![2024-05-10 15_02_46 959](https://github.com/nhnacademy-be5-bom/.github/assets/132794328/05f51e5f-3373-4e02-b421-e29422e7ef57)
 
 ## CI/CD
-
+![2024-05-10 15_24_14 064](https://github.com/nhnacademy-be5-bom/.github/assets/67140032/0f781261-94e3-4095-951a-9442d6e49435)
+![2024-05-10 15_24_38 004](https://github.com/nhnacademy-be5-bom/.github/assets/67140032/9aa9a11d-52c0-4c8f-a873-ea4f124846f4)
+![2024-05-10 15_25_32 366](https://github.com/nhnacademy-be5-bom/.github/assets/67140032/2ad195de-4a58-4edc-b939-97d6589a0407)
 
 ## ERD
-
 https://www.erdcloud.com/d/iWzdEjz2dMQyfa9Mc
 ![book-bom-erd](https://github.com/nhnacademy-be5-bom/.github/assets/132794328/ce94f6dc-8a01-4b75-8b7c-3aa5c5c63ff2)
-
 
 
 ## 개발 환경
