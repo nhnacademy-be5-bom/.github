@@ -17,7 +17,8 @@ https://bookbom.shop/
 ## WBS
 https://github.com/orgs/nhnacademy-be5-bom/projects/4
 
-![alt text](image-3.png)
+![image](https://github.com/nhnacademy-be5-bom/.github/assets/132794328/4aa3b6ef-db4d-4215-80dc-4a798cd1fbbc)
+
 
 ## 개발 환경
 - 개발도구: Intellij IDEA - Ultimate
@@ -130,7 +131,8 @@ https://github.com/orgs/nhnacademy-be5-bom/projects/4
 
 ## ERD
 https://www.erdcloud.com/d/iWzdEjz2dMQyfa9Mc
-![alt text](image-1.png)
+![Uploading image.png…]()
+
 ---
 
 ## 테스트 커버리지
