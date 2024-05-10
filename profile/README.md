@@ -110,35 +110,9 @@ https://www.erdcloud.com/d/iWzdEjz2dMQyfa9Mc
 ### ETC
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)
-![Junit5](https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=Junit5&logoColor=white)
-</br>
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![SonarLint](https://img.shields.io/badge/SonarLint-CB2029.svg?style=for-the-badge&logo=sonarlint&logoColor=white)
-![DataGrip](https://img.shields.io/badge/DataGrip-000000.svg?style=for-the-badge&logo=datagrip&logoColor=white)
-</br>
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571.svg?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Junit5](https://img.shields.io/badge/Junit5-25A인
 
-### Front
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F.svg?style=for-the-badge&logo=thymeleaf&logoColor=white)
-![Bootstrap5](https://img.shields.io/badge/Bootstrap5-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-
------
-## 프로젝트 관리
-### wbs
-https://github.com/orgs/nhnacademy-be5-bom/projects/4
-
-![image](https://github.com/nhnacademy-be5-bom/.github/assets/132794328/ab9dfd68-1e86-48f6-af47-054c2ac345a4)
-
-### scrum
-- 매일 10시, 각자 진행상황과 논의사항을 공유
-
-
-![image](https://github.com/nhnacademy-be5-bom/.github/assets/132794328/9d0a50d1-014d-44bd-95a8-30a615ca394e)
-
-## kaban borad
+  
 ![image](https://github.com/nhnacademy-be5-bom/.github/assets/132794328/e14b8dfd-b907-4e22-85c2-026eeaadfc33)
 
 ---
