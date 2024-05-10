@@ -1,5 +1,4 @@
 # BookBom
-![bookbom-logo](https://github.com/nhnacademy-be5-bom/.github/assets/48512751/90ca3563-0f1c-4551-8035-3e1a5d004bcb)
 
 
 ### 개발 기간
