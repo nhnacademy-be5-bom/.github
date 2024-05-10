@@ -114,7 +114,8 @@ https://www.erdcloud.com/d/iWzdEjz2dMQyfa9Mc
 
 ## 프로젝트 관리
 ### wbs
-![image](https://github.com/nhnacademy-be5-bom/.github/assets/132794328/e14b8dfd-b907-4e22-85c2-026eeaadfc33)
+![image](https://github.com/nhnacademy-be5-bom/.github/assets/132794328/ef238b33-1233-4dc5-9b54-2555f15bac43)
+
 
 ### kaban
 - 칸반 보드로 전체 개발 진행상황을 확인
@@ -126,7 +127,8 @@ https://www.erdcloud.com/d/iWzdEjz2dMQyfa9Mc
 ### srum
 - 매일 10시 진행
 - 각자 어제 진행상황과 논의사항을 공유 
-![image](https://github.com/nhnacademy-be5-bom/.github/assets/132794328/1e52fde2-eaef-45a8-bca4-b293cf5e7368)
+![image](https://github.com/nhnacademy-be5-bom/.github/assets/132794328/0a60c761-d20a-41f0-b4ab-f0a03028dbfa)
+
 
 ---
 
