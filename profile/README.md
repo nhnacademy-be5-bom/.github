@@ -134,9 +134,11 @@ https://github.com/orgs/nhnacademy-be5-bom/projects/4
 
 ### scrum
 - 매일 10시, 각자 진행상황과 논의사항을 공유
+
+
 ![image](https://github.com/nhnacademy-be5-bom/.github/assets/132794328/9d0a50d1-014d-44bd-95a8-30a615ca394e)
 
-##kaban borad
+## kaban borad
 ![image](https://github.com/nhnacademy-be5-bom/.github/assets/132794328/e14b8dfd-b907-4e22-85c2-026eeaadfc33)
 
 ---
