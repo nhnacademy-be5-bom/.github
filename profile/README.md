@@ -110,7 +110,6 @@ https://www.erdcloud.com/d/iWzdEjz2dMQyfa9Mc
 ### ETC
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)
-![Junit5](https://img.shields.io/badge/Junit5-25A인
 
 ## 프로젝트 관리
 ### wbs
