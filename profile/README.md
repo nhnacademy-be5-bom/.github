@@ -117,9 +117,16 @@ https://www.erdcloud.com/d/iWzdEjz2dMQyfa9Mc
 ![image](https://github.com/nhnacademy-be5-bom/.github/assets/132794328/e14b8dfd-b907-4e22-85c2-026eeaadfc33)
 
 ### kaban
+- 칸반 보드로 전체 개발 진행상황을 확인
+
+
+![image](https://github.com/nhnacademy-be5-bom/.github/assets/132794328/a4744698-014d-4258-a8dd-1f49d9ec6a07)
 
 
 ### srum
+- 매일 10시 진행
+- 각자 어제 진행상황과 논의사항을 공유 
+![image](https://github.com/nhnacademy-be5-bom/.github/assets/132794328/1e52fde2-eaef-45a8-bca4-b293cf5e7368)
 
 ---
 
