@@ -44,7 +44,6 @@ https://www.erdcloud.com/d/iWzdEjz2dMQyfa9Mc
     - Spring Data Elasticsearch
     - Spring Data Redis
   - Spring Batch
-  - Spring Rest Docs
   - JPA
     - QueryDSL
 - 테스트
@@ -61,14 +60,11 @@ https://www.erdcloud.com/d/iWzdEjz2dMQyfa9Mc
   - ERDCloud
 - UI
   - BOOTSTRAP5
-  - TOAST UI
 - NHN Cloud
   - Instance
   - Secure Key Manager
   - Object Storage
   - Load Balancer
-- 기타
-  - Dooray Hook Sender
 
 ---
 
