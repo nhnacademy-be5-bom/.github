@@ -130,11 +130,11 @@ https://www.erdcloud.com/d/iWzdEjz2dMQyfa9Mc
 ### wbs
 https://github.com/orgs/nhnacademy-be5-bom/projects/4
 
-![image](https://github.com/nhnacademy-be5-bom/.github/assets/132794328/4aa3b6ef-db4d-4215-80dc-4a798cd1fbbc)
+![image](https://github.com/nhnacademy-be5-bom/.github/assets/132794328/ab9dfd68-1e86-48f6-af47-054c2ac345a4)
 
 ### scrum
 - 매일 10시, 각자 진행상황과 논의사항을 공유
-![image](https://github.com/nhnacademy-be5-bom/.github/assets/132794328/0f1f16c4-e82b-41cc-a181-feccf643838e)
+![image](https://github.com/nhnacademy-be5-bom/.github/assets/132794328/9d0a50d1-014d-44bd-95a8-30a615ca394e)
 
 ##kaban borad
 ![image](https://github.com/nhnacademy-be5-bom/.github/assets/132794328/e14b8dfd-b907-4e22-85c2-026eeaadfc33)
