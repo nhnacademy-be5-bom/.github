@@ -17,6 +17,7 @@ https://bookbom.shop/
 ---
 
 ## 아키텍쳐 구조
+![2024-05-10 15_02_46 959](https://github.com/nhnacademy-be5-bom/.github/assets/132794328/05f51e5f-3373-4e02-b421-e29422e7ef57)
 
 ## CI/CD
 
