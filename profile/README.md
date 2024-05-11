@@ -5,7 +5,7 @@
 - 2024-03-11 ~ 2024-05-17
 ## 팀 구성
 
-| <a href="https://github.com/bodol4748"><img src="https://github.com/bodol4748.png" width="100px"><br>@박지원</a> | <a href="https://github.com/jinyesong"><img src="https://github.com/jinyesong.png" width="100px"><br>@송예진</a> | <a href="https://github.com/boyunee"><img src="https://github.com/boyunee.png" width="100px"><br>@정보윤</a> |<a href="https://github.com/hyeond0"><img src="https://github.com/hyeond0.png" width="100px"><br>@정현도</a> |<a href ="https://github.com/youaresogay22"> <img src ="https://github.com/youaresogay22.png" width ="100px"><br>@전석준</a>|<a href ="https://github.com/dudxor4587"> <img src ="https://github.com/dudxor4587.png" width ="100px"><br>@김영택</a>
+| <a href="https://github.com/bodol4748"><img src="https://github.com/bodol4748.png" width="100px"><br>박지원</a> | <a href="https://github.com/jinyesong"><img src="https://github.com/jinyesong.png" width="100px"><br>송예진</a> | <a href="https://github.com/boyunee"><img src="https://github.com/boyunee.png" width="100px"><br>정보윤</a> |<a href="https://github.com/hyeond0"><img src="https://github.com/hyeond0.png" width="100px"><br>정현도</a> |<a href ="https://github.com/youaresogay22"> <img src ="https://github.com/youaresogay22.png" width ="100px"><br>전석준</a>|<a href ="https://github.com/dudxor4587"> <img src ="https://github.com/dudxor4587.png" width ="100px"><br>김영택</a>
 |-----|-----|-----|----|-----|-----|
 
 -----
@@ -154,7 +154,56 @@ https://www.erdcloud.com/d/iWzdEjz2dMQyfa9Mc
 ## 테스트 커버리지
 
 
-## 기능
+## [정현도](https://github.com/dduneon)
+
+### 검색
+- `Elasticsearch`를 이용한 검색 속도 개선
+- 검색 우선순위에 따른 가중치 설정
+- 필드의 특성을 고려한 인덱스 구성 및 형태소 분석기 적용을 통한 검색 품질 개선
+- 인기순, 가격순, 출판일순 등 정렬조건 추가 및 페이지네이션 적용
+- `Logstash`를 이용해 DB 저장 데이터 Elasticsearch와 동
+
+### 장바구니
+- 회원/비회원 장바구니 기능 구현
+- `Redis`를 이용한 성능 개선
+- 주문할 도서 담기 담기, 수량 조절 및 삭제 처리
+
+### 회원 
+- 회원가입
+  - 이메일, 닉네임 중복체크 기능 구현
+  - 카카오 우편번호 API를 이용한 주소 입력
+  - 비밀번호 등의 유효성사
+
+- 포인트 적립/사용 내역 조회
+  - 회원 포인트 적립/사용 내역 조회 기능 구현
+  - 적립 / 사용에 따른 필터링된 결과 출력 구현
+  - 기간에 따른 필터링된 결과 출력 구현
+
+- 마이페이지
+  - 최근 주문이 5개까지 나오도록 구현
+  - 현재 회원의 등급 출력
+  - 회원 정보, 보유 포인트, 쿠폰 갯수 등 출력 구현
+
+### 주문
+- 주문 내역 조회
+  - 회원의 주문 내역 조회 기능 구현
+  - 기간을 설정해 필터링된 결과 출력 구현
+  - 페이지네이션을 통한 주문 내역 페이지 구현
+    
+- 주문 상세 조회
+  - 주문에 대한 상세 내역 조회 기능 구현
+  - 배송이 되기 전인 대기 상태의 경우 주문 취소가 가능하도록 구현
+    
+- 관리자 주문 관리
+  - 관리자 페이지에서 주문 상태별, 기간 별 주문 내역 및 상세 조회 기능 구현
+  - 주문 취소, 반품 등 주문 상태 변경 기능 구현
+
+### 포인트 정책
+- 관리자 페이지에서 포인트 정책 조회 기능 구현
+- 적립 정책 변경 기능 구현(비율/금액, 적립률 등)
+
+-------------- 본인 역할 작성 후 이 줄을 지워주세요 -------------
+
 ### 회원
  - 담당자 : 이승재
  -
@@ -176,11 +225,9 @@ https://www.erdcloud.com/d/iWzdEjz2dMQyfa9Mc
 
 ### 상품좋아요
 
-### 검색
+
 
 ### redis
-
-### 장바구니 
 
 ### 주문
 
