@@ -95,10 +95,41 @@ https://www.erdcloud.com/d/iWzdEjz2dMQyfa9Mc
 
 ### DataBase
 ![MySQL](http://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
-![Redis](https://img.shields.io/badge/Redi드
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white)
+
+### CI/CD
+![Github Action](https://img.shields.io/badge/Github%20Action-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jenkins](http://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
+
+### DevOps
+![NHN Cloud](https://img.shields.io/badge/-NHN%20Cloud-blue?style=for-the-badge&logo=iCloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E98CD?style=for-the-badge&logo=SonarQube&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+
+### ETC
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)
+![Junit5](https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=Junit5&logoColor=white)
+</br>
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![SonarLint](https://img.shields.io/badge/SonarLint-CB2029.svg?style=for-the-badge&logo=sonarlint&logoColor=white)
+</br>
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571.svg?style=for-the-badge&logo=elasticsearch&logoColor=white)
+
+### Front
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F.svg?style=for-the-badge&logo=thymeleaf&logoColor=white)
+![Bootstrap5](https://img.shields.io/badge/Bootstrap5-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+
+
+
+## 프로젝트 관리
+### wbs
+![image](https://github.com/nhnacademy-be5-bom/.github/assets/132794328/ef238b33-1233-4dc5-9b54-2555f15bac43)
+
+### 칸반 보드
 - 칸반 보드로 전체 개발 진행상황을 확인
-
-
 ![image](https://github.com/nhnacademy-be5-bom/.github/assets/132794328/a4744698-014d-4258-a8dd-1f49d9ec6a07)
 
 
