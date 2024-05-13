@@ -20,9 +20,7 @@ https://bookbom.shop/
 ![2024-05-10 15_02_46 959](https://github.com/nhnacademy-be5-bom/.github/assets/132794328/05f51e5f-3373-4e02-b421-e29422e7ef57)
 
 ## CI/CD
-![2024-05-10 15_24_14 064](https://github.com/nhnacademy-be5-bom/.github/assets/67140032/0f781261-94e3-4095-951a-9442d6e49435)
 ![2024-05-10 15_24_38 004](https://github.com/nhnacademy-be5-bom/.github/assets/67140032/9aa9a11d-52c0-4c8f-a873-ea4f124846f4)
-![2024-05-10 15_25_32 366](https://github.com/nhnacademy-be5-bom/.github/assets/67140032/2ad195de-4a58-4edc-b939-97d6589a0407)
 
 ## ERD
 https://www.erdcloud.com/d/iWzdEjz2dMQyfa9Mc
@@ -45,6 +43,7 @@ https://www.erdcloud.com/d/iWzdEjz2dMQyfa9Mc
     - Spring Data Elasticsearch
     - Spring Data Redis
   - Spring Batch
+  - Spring Security
   - JPA
     - QueryDSL
 - 테스트
@@ -82,6 +81,7 @@ https://www.erdcloud.com/d/iWzdEjz2dMQyfa9Mc
 ![Spring Cloud Gateway](https://img.shields.io/badge/Spring_Cloud_Gateway-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Batch](https://img.shields.io/badge/Spring_Batch-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Eureka](https://img.shields.io/badge/Spring_Eureka-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F.svg?style=for-the-badge&logo=springsecurity&logoColor=white)
 </br>
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C.svg?style=for-the-badge&logo=hibernate&logoColor=white)
@@ -310,43 +310,46 @@ https://www.erdcloud.com/d/iWzdEjz2dMQyfa9Mc
   - 회원 등급 조회 시 자신의 등급과 전체 등급별 헤택 출력
   - 자신의 등급은 표시해서 출력함
 
----------------------------------------------------
 
-
+## [박지원](https://github.com/bodol4748)
 ### 회원
- 
+- 회원 정보 조회 구현
+  - EMAIL 중복조회
+  - ID PASSWORD 일치 여부 조회
+  - EMAIL PASSWORD 일치 여부 조회
+
+- 비밀번호 변경 페이지 구현
+  - 현재 비밀번호를 검증
+  - 신규 비밀번호 유효성 검사
+  - 검증 및 유효성 검사 성공시 비밀번호 변경 기능 구현
+    
 ### 인증/인가 
+- AUTH SERVER
+  - JWT 토큰을 활용하여 구현
+  - SECURE MANGER로 JWT SECRET KEY관리
+  - SHOP SERVER에 EMAIL PW로 사용자 검증
+  - ACCESS TOKEN, REFRESH TOKEN을 발급
+  - ACCESS TOKEN의 PAYLOAD는 ID, ROLE로 구성
+  - REFRESH TOKEN은 REDIS를 사용하여 관리
+  - 유효기간을 설정하여 일정 시간 이후에는 재발급 또는 재로그인하도록 구현
+    
+- FRONT SERVER
+  - SPRING SECURITY를 활용
+  - ROLE별로 페이지 접근 제어가 되도록 구현
+  - FILTER로 로그인 구현
+      - AUTH SERVER의 JWT TOKEN 발급
+      - COOKIE에 JWT 저장
+      - SECURITY CONTEXT에 PAYLOAD로 만든 ATHENTICATION TOKEN저장
+      
+  - INTERCEPTOR로 백엔드와 통신 수정
+      - 매 요청시마다 INTERCEPTOR가 요청 가로채도록 구현
+      - 인증이 필요한 요청일경우 JWT ACCESS TOKEN을 HEADER에 추가
+      - 만료되었을 경우 REFRESH TOEKN을 통한 재발급 후 HEADER에 추가
+      - REFRESH TOKEN 또한 만료되었을 경우 SPRING CONTEXT 초기화
+      
+- SHOP SERVER
+    - SPRING SECURITY를 활용
+    - ROLE별로 요청 접근 제어가 되도록 구현
+    - FILTER로 TOKEN 처리 구현
+    - SECURITY CONTEXT에 PAYLOAD로 만든 ATHENTICATION TOKEN저장
 
-### 출판사
-
-### 저자
-
-### 카테고리
-
-### 태그
-
-### 파일
-
-### 상품(도서)
-
-### 상품좋아요
-
-### redis
-
-### 주문
-
-### 결제
-
-### 포인트
-
-### 쿠폰
-
-### 주소
-
-### 리뷰(상품평)
-
-### 배송규정
-
-### 인프라
-
-### 로그
