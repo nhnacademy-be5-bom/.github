@@ -262,8 +262,6 @@ https://www.erdcloud.com/d/iWzdEjz2dMQyfa9Mc
 - 카테고리 수정 페이지 구현
 - Soft delete 적용
 
-### 주소
-
 
 ## [송예진](https://github.com/jinyesong)
 
